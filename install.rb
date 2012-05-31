@@ -1,0 +1,1 @@
+system("ruby #{File.join(File.dirname(__FILE__), '/../../../', 'script/generate')} presenter application")
